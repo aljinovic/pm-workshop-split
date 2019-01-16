@@ -10,3 +10,7 @@
 ## 2018-12-04 Workshop #2
 * [Docker, psycopg2 - presentation](https://docs.google.com/presentation/d/1JhYpsosAug0axnRKaoNN_CtlhahXfPKWYx7GFLNwKWI/edit?usp=sharing)
 * [workshop_2 branch](https://github.com/aljinovic/pm-workshop-split/tree/workshop_2)
+
+## 2019-01-16 Workshop #3
+* [sqlAlchemy - presentation](https://docs.google.com/presentation/d/1yOkrionP1w2xmPuxvktqiy2zCCKE2Sd2TzIvjZtbNFY/edit?usp=sharing)
+* [workshop_3 branch](https://github.com/aljinovic/pm-workshop-split/tree/workshop_3)
